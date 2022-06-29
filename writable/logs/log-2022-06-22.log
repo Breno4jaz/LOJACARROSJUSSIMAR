@@ -1,0 +1,271 @@
+ERROR - 2022-06-22 12:15:06 --> Error connecting to the database: Unknown database 'teste'
+CRITICAL - 2022-06-22 12:18:35 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'moto')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:18:38 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'moto')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:56:42 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:56:47 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:56:50 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:56:50 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:56:51 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:57:39 --> Invalid file: excluir.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('excluir.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('excluir', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('excluir')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('excluir', 'carro', '9')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:58:34 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', 'cadastro-pessoa...')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:58:36 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:58:47 --> Invalid file: editarCarros10.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros10....')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros10', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros10')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:58:59 --> Invalid file: editarCarros10.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros10....')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros10', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros10')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:59:05 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', '10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:59:28 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', '10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:59:35 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', '10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 12:59:39 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', '9')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:01:03 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:01:05 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:01:07 --> Invalid file: editarCarros.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editarCarros.ph...')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editarCarros', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editarCarros')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editarCarros', 'sobre')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:02:03 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:02:05 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'contato')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:02:39 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', 'pessoa')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:03:01 --> Invalid file: excluir.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('excluir.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('excluir', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('excluir')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('excluir', 'carro', '10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:05:17 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', 'carro')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:06:33 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', 'home')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:06:46 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', '11')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
+CRITICAL - 2022-06-22 13:06:49 --> Invalid file: editar.php
+#0 C:\wamp64\www\CodeIgniterTemplate\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('editar.php')
+#1 C:\wamp64\www\CodeIgniterTemplate\system\Common.php(1089): CodeIgniter\View\View->render('editar', Array, true)
+#2 C:\wamp64\www\CodeIgniterTemplate\app\Controllers\Home.php(22): view('editar')
+#3 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(832): App\Controllers\Home->page('editar', 'carro', '10')
+#4 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\wamp64\www\CodeIgniterTemplate\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\wamp64\www\CodeIgniterTemplate\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\wamp64\www\CodeIgniterTemplate\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\C...')
+#8 {main}
